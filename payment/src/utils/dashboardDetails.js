@@ -5,11 +5,7 @@ import imgv4 from "../asset/images/contact.png"
 import imgv5 from "../asset/images/about.png"
 import imgv6 from "../asset/images/settings.png"
 const details=[
-    {
-        title:"Add Customer",
-        imgv:imgv3,
-        path:"/customer"
-    },
+   
     {
         title:"Make Transaction",
         imgv:imgv2,
